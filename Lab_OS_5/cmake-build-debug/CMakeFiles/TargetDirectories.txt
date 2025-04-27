@@ -1,0 +1,5 @@
+C:/Users/Home/PycharmProjects/Lab_OS_5/cmake-build-debug/CMakeFiles/server.dir
+C:/Users/Home/PycharmProjects/Lab_OS_5/cmake-build-debug/CMakeFiles/client.dir
+C:/Users/Home/PycharmProjects/Lab_OS_5/cmake-build-debug/CMakeFiles/ClientServerLab.dir
+C:/Users/Home/PycharmProjects/Lab_OS_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Home/PycharmProjects/Lab_OS_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
