@@ -1,0 +1,26 @@
+[2025-05-13 00:54:03] Server application started
+[2025-05-13 00:55:07] Server application started
+[2025-05-13 00:55:12] Server started on port 12345
+[2025-05-13 00:55:32] Client connected: 127.0.0.1
+[2025-05-13 00:55:45] Sent to client: red
+[2025-05-13 00:58:13] Sent to client: reset
+[2025-05-13 00:58:25] Sent to client: blue
+[2025-05-13 00:58:35] Received: exit
+[2025-05-13 00:58:35] Receive error
+[2025-05-13 00:58:35] Client disconnected
+[2025-05-13 00:58:37] Server stopped
+[2025-05-13 12:28:24] Server application started
+[2025-05-13 12:29:10] Server application started
+[2025-05-13 12:29:16] Server started on port 12345
+[2025-05-13 12:29:37] Client connected: 127.0.0.1
+[2025-05-13 12:30:25] Sent to client: blue
+[2025-05-13 12:30:32] Receive error
+[2025-05-13 12:30:32] Server stopped
+[2025-05-13 12:30:32] Client disconnected
+[2025-05-13 12:59:04] Server application started
+[2025-05-13 12:59:14] Server started on port 12345
+[2025-05-13 12:59:18] Client connected: 127.0.0.1
+[2025-05-13 12:59:29] Sent to client: blue
+[2025-05-13 12:59:42] Receive error
+[2025-05-13 12:59:42] Server stopped
+[2025-05-13 12:59:42] Client disconnected

@@ -1,0 +1,22 @@
+[2025-05-13 00:54:25] Client application started
+[2025-05-13 00:55:24] Client application started
+[2025-05-13 00:55:32] Connected to server
+[2025-05-13 00:55:45] Received command: red
+[2025-05-13 00:58:13] Received command: reset
+[2025-05-13 00:58:25] Received command: blue
+[2025-05-13 00:58:35] Receive error
+[2025-05-13 00:58:35] Disconnected from server
+[2025-05-13 12:28:33] Client application started
+[2025-05-13 12:28:47] Connection failed
+[2025-05-13 12:28:52] Connection failed
+[2025-05-13 12:28:54] Connection failed
+[2025-05-13 12:29:28] Client application started
+[2025-05-13 12:29:37] Connected to server
+[2025-05-13 12:30:25] Received command: blue
+[2025-05-13 12:30:32] Received command: exit
+[2025-05-13 12:30:32] Disconnected from server
+[2025-05-13 12:59:10] Client application started
+[2025-05-13 12:59:18] Connected to server
+[2025-05-13 12:59:29] Received command: blue
+[2025-05-13 12:59:42] Received command: exit
+[2025-05-13 12:59:42] Disconnected from server
